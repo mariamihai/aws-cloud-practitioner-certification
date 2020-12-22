@@ -3,11 +3,16 @@
 ## Documentation
 ---
 ## S2E1 - Intro to AWS
-[Q&A - Jon](https://www.twitch.tv/aws/video/770438975)
+[Q&A - Jonathan Dion](https://www.twitch.tv/aws/video/770438975)
 and
-[Episode - Jon](https://www.twitch.tv/aws/video/770429171)
+[Episode - Jonathan Dion](https://www.twitch.tv/aws/video/770429171)
+
+[Q&A - Blaine Sundrud](https://www.twitch.tv/aws/video/772546515)
+and
+[Episode - Blaine Sundrud](https://www.twitch.tv/aws/video/772551330)
 
 - [AWS Global Infrastructure](https://infrastructure.aws/)
+- [What is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/)
 - [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 - [Overview of Object Storage](https://aws.amazon.com/what-is-cloud-object-storage/)
 - [Amazon Simple Storage Service (Amazon S3) Documentation](https://docs.aws.amazon.com/s3/index.html)
@@ -113,3 +118,8 @@ EBS:
 - [AWS Power Hour (Twitch Series)](https://www.twitch.tv/search?term=aws%20power%20hour%20cloud%20practitioner%20&type=videos)
 - [AWS Training](https://www.aws.training/)
 - [AWS Cloud Practitioner Essentials](https://www.aws.training/Details/eLearning?id=60697)
+- [5 tips for a successful online-proctored AWS Certification exam](https://aws.amazon.com/blogs/training-and-certification/5-tips-for-a-successful-online-proctored-aws-certification-exam/)
+
+## Online exams
+- [Pearson VUE](https://home.pearsonvue.com/aws/onvue)
+- [PSI](https://syscheck.bridge.psiexams.com/)
